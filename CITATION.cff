@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Marchetti"
+  given-names: "Otávio César"
+  orcid: "https://orcid.org/0000-0002-6240-3310"
+- family-names: "Duarte"
+  given-names: "Rafael C"
+  orcid: "https://orcid.org/0000-0001-7059-3129"
+title: "photoQuad-extractoR"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2024-05-17
+url: "https://github.com/rafaduarte87/photoQuad-extractoR"
